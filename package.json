@@ -1,0 +1,17 @@
+{
+  "name": "ffile-management-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Santiago",
+  "license": "ISC",
+  "dependencies": {
+    "ddatess-difference-calculator": "^1.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
